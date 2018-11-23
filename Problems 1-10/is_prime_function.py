@@ -1,3 +1,5 @@
+# an efficient prime checker function
+
 def is_prime(n):
     if n <= 1:
         return False
